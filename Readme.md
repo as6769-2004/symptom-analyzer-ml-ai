@@ -84,11 +84,7 @@ This project utilizes Ollama with the Mistral model, a local Large Language Mode
 ## Screenshots
 
 * **Symptom Input:**
-<<<<<<< HEAD
     <img src="https://raw.githubusercontent.com/as6769-2004/symptom-analyzer-ml-ai/refs/heads/main/screenshots/Screenshot_1.png" width="500">
-=======
-    <img src="https://github.com/as6769-2004/symptom-analyzer-ml-ai/tree/main/screenshots/Screenshot_1.png" width="600">
->>>>>>> 979b56e6b925f5975f2de02fddcf5a951ba8f77b
 * **Analysis Results:**
     <img src="https://raw.githubusercontent.com/as6769-2004/symptom-analyzer-ml-ai/refs/heads/main/screenshots/Screenshot_2.png" width="500" alt="Analysis Results Screenshot">
 * **Chat Assistant:**
