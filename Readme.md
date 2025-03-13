@@ -26,10 +26,10 @@ This project utilizes Ollama with the Mistral model, a local Large Language Mode
 
 ## Installation
 
-1.  **Clone the repository (if applicable):**
+1.  **Clone the repository:**
     ```bash
-    git clone [your-repository-url]
-    cd [your-project-directory]
+    git clone [https://github.com/as6769-2004/symptom-analyzer-ml-ai](https://github.com/as6769-2004/symptom-analyzer-ml-ai)
+    cd Symptoms_Analyzer/Symptom_analyzer
     ```
 
 2.  **Install the Python dependencies:**
@@ -56,7 +56,7 @@ This project utilizes Ollama with the Mistral model, a local Large Language Mode
     ollama run mistral
     ```
 
-5.  **Place Datasets:** place `Training.csv` and `Testing.csv` inside a folder named `dataset` in the root of the project.
+5.  **Place Datasets:** Place `Training.csv` and `Testing.csv` inside a folder named `dataset` in the root of the project.
 
 ## Usage
 
@@ -81,6 +81,19 @@ This project utilizes Ollama with the Mistral model, a local Large Language Mode
 * You can then use the chat interface to ask further questions.
 * Previous sessions can be viewed from the side bar.
 
+## Screenshots
+
+* **Symptom Input:**
+    <img src="https://github.com/as6769-2004/symptom-analyzer-ml-ai/tree/main/screenshots/Screenshot_1.png" width="600" alt="Symptom Input Screenshot">
+* **Analysis Results:**
+    <img src="https://github.com/as6769-2004/symptom-analyzer-ml-ai/tree/main/screenshots/Screenshot_2.png" width="600" alt="Analysis Results Screenshot">
+* **Chat Assistant:**
+    <img src="https://github.com/as6769-2004/symptom-analyzer-ml-ai/tree/main/screenshots/Screenshot_3.png" width="600" alt="Chat Assistant Screenshot">
+* **Session History:**
+    <img src="https://github.com/as6769-2004/symptom-analyzer-ml-ai/tree/main/screenshots/Screenshot_4.png" width="600" alt="Session History Screenshot">
+
+**(Make sure you create a directory named `screenshots` in your repository and place your screenshots there. Also, rename the screenshots accordingly.)**
+
 ## Important Disclaimer
 
 * **This project is for informational purposes only and should not be used for self-diagnosis or self-treatment.**
@@ -98,4 +111,3 @@ Contributions are welcome! If you'd like to contribute, please follow these step
 3.  Make your changes and commit them.
 4.  Push your changes to your fork.
 5.  Submit a pull request.
-
