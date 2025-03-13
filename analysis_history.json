@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": "2025-03-13 17:39:44",
+    "symptoms": [
+      "Loss Of Appetite",
+      "Headache",
+      "Vomiting",
+      "Depression"
+    ],
+    "predicted_disease": "Paralysis (brain hemorrhage)",
+    "analysis": {
+      "medicines": "Acetaminophen for headache relief, Metoclopramide or Ondansetron for vomiting, and antidepressants prescribed by a healthcare professional for depression",
+      "precautions": "Avoid heavy lifting or any strenuous activity, limit exposure to loud noises, and monitor blood pressure regularly",
+      "advice": "Seek immediate medical attention if symptoms worsen, especially signs of increased intracranial pressure such as worsening headache or change in level of consciousness"
+    },
+    "chat": [
+      [
+        "You",
+        "will i survive ?"
+      ],
+      [
+        "AI",
+        "1. I am an AI and cannot diagnose or predict survival rates.\n2. If you are experiencing the symptoms mentioned, it is crucial to seek immediate medical attention from a healthcare professional for proper diagnosis and treatment.\n3. Following their advice and taking prescribed medications as directed will improve your chances of recovery.\n4. Make sure to stay hydrated and rest adequately while awaiting medical help."
+      ],
+      [
+        "You",
+        "i do gym and heavy weight is it an problem "
+      ],
+      [
+        "AI",
+        "1. Continue your regular gym routine if you feel up to it, but adjust the intensity according to how you feel each day.\n2. If vomiting occurs after exercise, avoid strenuous activity immediately before or after workouts.\n3. Stay hydrated by drinking plenty of water throughout the day, especially before and after exercise.\n4. Eat small, nutritious meals throughout the day to help manage your appetite.\n5. If you experience worsening symptoms or feel unusually tired during exercise, consult a healthcare professional for advice."
+      ]
+    ]
+  },
+  {
+    "timestamp": "2025-03-13 18:03:41",
+    "symptoms": [
+      "Chest Pain",
+      "Unsteadiness",
+      "Anxiety"
+    ],
+    "predicted_disease": "(vertigo) Paroymsal  Positional Vertigo",
+    "analysis": {
+      "medicines": [
+        "Betahistine, Meclizine"
+      ],
+      "precautions": [
+        "Avoid driving or operating machinery if symptoms worsen, Limit salt and caffeine intake, Maintain a regular sleep schedule"
+      ],
+      "advice": [
+        "Perform the Epley maneuver as directed by your doctor, Use a support system for balance, Consult an audiologist for hearing tests"
+      ]
+    },
+    "chat": []
+  }
+]
