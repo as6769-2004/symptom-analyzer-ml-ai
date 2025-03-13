@@ -84,13 +84,13 @@ This project utilizes Ollama with the Mistral model, a local Large Language Mode
 ## Screenshots
 
 * **Symptom Input:**
-    <img src="https://github.com/as6769-2004/symptom-analyzer-ml-ai/tree/main/screenshots/Screenshot_1.png" width="600" alt="Symptom Input Screenshot">
+    <img src="https://raw.githubusercontent.com/as6769-2004/symptom-analyzer-ml-ai/refs/heads/main/screenshots/Screenshot_1.png" width="500">
 * **Analysis Results:**
-    <img src="https://github.com/as6769-2004/symptom-analyzer-ml-ai/tree/main/screenshots/Screenshot_2.png" width="600" alt="Analysis Results Screenshot">
+    <img src="https://raw.githubusercontent.com/as6769-2004/symptom-analyzer-ml-ai/refs/heads/main/screenshots/Screenshot_2.png" width="500" alt="Analysis Results Screenshot">
 * **Chat Assistant:**
-    <img src="https://github.com/as6769-2004/symptom-analyzer-ml-ai/tree/main/screenshots/Screenshot_3.png" width="600" alt="Chat Assistant Screenshot">
+    <img src="https://raw.githubusercontent.com/as6769-2004/symptom-analyzer-ml-ai/refs/heads/main/screenshots/Screenshot_3.png" width="500" alt="Chat Assistant Screenshot">
 * **Session History:**
-    <img src="https://github.com/as6769-2004/symptom-analyzer-ml-ai/tree/main/screenshots/Screenshot_4.png" width="600" alt="Session History Screenshot">
+    <img src="https://raw.githubusercontent.com/as6769-2004/symptom-analyzer-ml-ai/refs/heads/main/screenshots/Screenshot_4.png" width="500" alt="Session History Screenshot">
 
 **(Make sure you create a directory named `screenshots` in your repository and place your screenshots there. Also, rename the screenshots accordingly.)**
 
